@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">estado</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="et_nome">Nome</string>
+    <string name="et_CPF">CPF</string>
+    <string name="btn_identificar">Indentificar Estado</string>
+    <string name="btn_volta">voltar</string>
+
+    <string name="txt_aviso">CPF deve ter 11 digitos</string>
+    <string name="txt_exibir">Esse CPF pode pertencer aos seguintes estados:</string>
+</resources>
